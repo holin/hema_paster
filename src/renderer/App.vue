@@ -12,4 +12,6 @@
 
 <style>
   /* CSS */
+  html, body {
+  }
 </style>

@@ -22,7 +22,7 @@
     "postinstall": "npm run lint:fix"
   },
   "build": {
-    "productName": "hema_paster",
+    "productName": "Hema Paster",
     "appId": "org.simulatedgreg.electron-vue",
     "directories": {
       "output": "build"
