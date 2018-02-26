@@ -1,5 +1,5 @@
 {
-  "name": "hemaword",
+  "name": "hema_paster",
   "version": "0.0.0",
   "author": "Holin <holin.he@gmail.com>",
   "description": "An electron-vue project",
@@ -22,7 +22,7 @@
     "postinstall": "npm run lint:fix"
   },
   "build": {
-    "productName": "hemaword",
+    "productName": "hema_paster",
     "appId": "org.simulatedgreg.electron-vue",
     "directories": {
       "output": "build"

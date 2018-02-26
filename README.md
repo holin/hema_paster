@@ -1,4 +1,4 @@
-# hemaword
+# hema_paster
 
 > An electron-vue project
 
