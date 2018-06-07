@@ -23,7 +23,7 @@
   },
   "build": {
     "productName": "Hema Paster",
-    "appId": "org.simulatedgreg.electron-vue",
+    "appId": "com.holin.hema_paster",
     "directories": {
       "output": "build"
     },
